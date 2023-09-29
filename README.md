@@ -1,5 +1,5 @@
 <h1>Introduction to Flutter and Dart :rocket:</h1>
-<p>This course, provided by Shaguf, is an introduction to Flutter and Dart using Android Studio. In this course, you will learn how to use Flutter to build user interfaces and handle widgets effectively.</p>
+<p>This course, provided by Shaguf, is an introduction to Flutter and Dart using Android Studio. In this course, I learned how to use Flutter to build user interfaces and handle widgets effectively.</p>
 
 <h2 style="font-style:italic; color: rgb(158, 81, 124);">Course Highlights</h2>
 <ol style="font-size: 25px; color: white;" >Learn the fundamentals of Flutter and Dart programming.</ol>
